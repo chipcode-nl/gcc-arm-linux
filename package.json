@@ -4,7 +4,7 @@
   "description": "GNU Arm embedded toolchain for Linux (64-bit)",
   "icon": "images/gcc-linux-128x128.png",
   "version": "1.0.2",
-  "preview": true,
+  "preview": false,
   "publisher": "chipcode-nl",
   "engines": {
     "vscode": "^1.52.0"
