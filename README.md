@@ -86,6 +86,9 @@ test:
 
 ## Release Notes
 
+### Version 1.0.2
+Added license 
+
 ### Version 1.0.1
 Fixed library path 
 

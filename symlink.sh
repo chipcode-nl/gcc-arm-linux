@@ -1,7 +1,7 @@
 #!/bin/sh
 echo "Create symlinks for GNU Arm embedded toolchain for Linux"
 
-VERSION=1.0.1
+VERSION=1.0.2
 TOOLCHAIN=~/.vscode/extensions/metalcode-eu.gcc-arm-linux-${VERSION}/bin
 CROSS=arm-none-eabi-
 
